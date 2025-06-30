@@ -34,4 +34,4 @@ This is perfect for students, teachers, or anyone who wants to quickly evaluate 
 ## 📦 How to Run
 
 ```bash
-python3 smartmarks.py
+python3 grade_checker.py
