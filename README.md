@@ -9,6 +9,8 @@
 
 # 🎓 SmartMarks – Student Marks Evaluator
 
+📄 [Click here to view the Python code](./grade_checker.py)
+
 **SmartMarks** is a simple and interactive Python script that allows students to enter subject names, marks, and total marks to calculate:
 
 - 📊 Subject-wise percentages
