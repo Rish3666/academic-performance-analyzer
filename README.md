@@ -1,5 +1,9 @@
 # academic-performance-analyzer
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![MadeWith](https://img.shields.io/badge/Made%20with-Python-orange)
+
 # 🎓 SmartMarks – Student Marks Evaluator
 
 **SmartMarks** is a simple and interactive Python script that allows students to enter subject names, marks, and total marks to calculate:
