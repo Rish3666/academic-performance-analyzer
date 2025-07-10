@@ -8,7 +8,7 @@
 
 # 🎓 SmartMarks – Student Marks Evaluator
 
-<img src="https://www.python.org/static/community_log [Click here to view the Python code](./grade_checker.py)
+![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) [Click here to view the Python code](./grade_checker.py)
 
 **SmartMarks** is a simple and interactive Python script that allows students to enter subject names, marks, and total marks to calculate:
 
